@@ -16,4 +16,12 @@ mesma obedece aos critérios. Caso não obedeça, informa o que falta para torn�
 <br>
 
 <p>Todos os desafios foram desenvolvidos na linguagem Java, utilizando a IDE Eclipse.</p>
+<br>
+
+<h3>Como rodar essa aplicação:</h3>
+<li>Baixe a JVM em seu dispositivo e, em seguida, a IDE Eclipse.</li>
+<li>Abra a IDE e crie um novo projeto Java.</li>
+<li>Em src, crie uma Classe para seu projeto.</li>
+<li>Copie o algoritmo e cole dentro da sua classe.</li>
+<li>Rode a aplicação.</li>
 
